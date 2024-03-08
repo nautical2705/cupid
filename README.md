@@ -1,0 +1,2 @@
+# cupid
+test net
